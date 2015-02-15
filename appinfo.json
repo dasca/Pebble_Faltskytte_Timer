@@ -1,0 +1,51 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "toffe@ippe.biz",
+    "longName": "F\u00e4ltskytte Timer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/stop14.png",
+                "name": "IMAGE_STOP_ICON_14",
+                "type": "png"
+            },
+            {
+                "file": "images/reset14.png",
+                "name": "IMAGE_RESET_ICON_14",
+                "type": "png"
+            },
+            {
+                "file": "images/plus14.png",
+                "name": "IMAGE_PLUS_ICON_14",
+                "type": "png"
+            },
+            {
+                "file": "images/play14.png",
+                "name": "IMAGE_PLAY_ICON_14",
+                "type": "png"
+            },
+            {
+                "file": "images/minus14.png",
+                "name": "IMAGE_MINUS_ICON_14",
+                "type": "png"
+            },
+            {
+                "file": "images/stopwatch28x28.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON_STOPWATCH_28",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "F\u00e4lt Timer",
+    "uuid": "0f0f7e71-550c-41f1-b6f1-f7801b1ee770",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
